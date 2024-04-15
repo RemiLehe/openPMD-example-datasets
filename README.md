@@ -5,7 +5,7 @@ This repository contains examples of [openPMD](http://www.openpmd.org/#/start) d
 - 3D Cartesian
 - Cylindrical with azimuthal decomposition ("thetaMode")
 
-The `structure.h5` is an OpenPMD-1.1 compliant file contains the bare bones structure with no associated data.
+The `structure.h5` is an openPMD 1.1.0 compliant file contains the bare bones structure with no associated data.
 
 In order to obtain these datasets:
 - Clone this repository
